@@ -1,4 +1,0 @@
-Intergroup
-==========
-
-Intergroup website repo
